@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hamid Zahoo
+- 👋 Hi, I’m Hamid Zahoor
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on web Development (HTML, CSS, JS, BOOTSTRAP, PHP )
