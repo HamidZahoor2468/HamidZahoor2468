@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HamidZahoor2468
+- 👋 Hi, I’m Hamid Zahoo
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on web Development (HTML, CSS, JS, BOOTSTRAP,PHP )
+- 💞️ I’m looking to collaborate on web Development (HTML, CSS, JS, BOOTSTRAP, PHP )
 - 📫 You can contact me by those both
 - email hamidzahoor2468@gmail.com 
 - phone # 03058065075
