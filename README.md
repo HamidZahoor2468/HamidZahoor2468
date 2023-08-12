@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidzahoor2468&label=Profile%20views&color=0e75b6&style=flat" alt="hamidzahoor2468" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamidzahoor2468" alt="hamidzahoor2468" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hamidzahoorr" target="blank"><img src="https://img.shields.io/twitter/follow/hamidzahoorr?logo=twitter&style=for-the-badge" alt="hamidzahoorr" /></a> </p>
 
 - 🔭 I’m currently working on [Go Get Gadgets](https://googetgadgets.com/)
@@ -29,7 +27,7 @@
 <a href="https://linkedin.com/in/hamid-zahoor-7405a5253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamid-zahoor-7405a5253" height="30" width="40" /></a>
 <a href="https://fb.com/xunny5075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xunny5075" height="30" width="40" /></a>
 <a href="https://instagram.com/itx_xunny420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itx_xunny420" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCrgQyEl5uQ3ykxl0D4euu6A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucrgqyel5uq3ykxl0d4euu6a" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucrgqyel5uq3ykxl0d4euu6a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucrgqyel5uq3ykxl0d4euu6a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
