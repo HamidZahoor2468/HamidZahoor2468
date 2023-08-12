@@ -27,9 +27,9 @@
 <p align="left">
 <a href="https://twitter.com/hamidzahoorr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamidzahoorr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamid-zahoor-7405a5253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamid-zahoor-7405a5253" height="30" width="40" /></a>
-<a href="https://fb.com/hamid zahoor (sunny)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamid zahoor (sunny)" height="30" width="40" /></a>
+<a href="https://fb.com/xunny5075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xunny5075" height="30" width="40" /></a>
 <a href="https://instagram.com/itx_xunny420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itx_xunny420" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@xunnydesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@xunnydesigns" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucrgqyel5uq3ykxl0d4euu6a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucrgqyel5uq3ykxl0d4euu6a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
